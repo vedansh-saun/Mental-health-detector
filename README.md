@@ -56,6 +56,21 @@ matplotlib
 
 seaborn
 
+## 🚀 Project Contents
+
+- `notebooks/suicide_detection.ipynb` – Full ML workflow
+- `requirements.txt` – Library dependencies
+- `data/Suicide_Detection.csv` – Raw input text data
+- `README.md` – Project overview and results
+
+---
+## 🔍 Performance
+
+**Accuracy:** 93.3%  
+**Precision / Recall / F1-score:** ~0.93 for both classes  
+
+The model shows balanced performance on both non‑suicidal (class 0) and suicidal (class 1) posts.
+
 
 ##📊 Sample Output
 
@@ -72,4 +87,5 @@ Classification Report:
 🙋‍♂️ Author
 Vedansh Saun
 Summer Internship - Machine Learning In-Depth (Python)
+
 
